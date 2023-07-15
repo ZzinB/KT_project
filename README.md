@@ -1,1 +1,1 @@
-# kt-yolo5-data
+# kt미니프로젝트
