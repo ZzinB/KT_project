@@ -62,4 +62,4 @@
  - 모델링 (MLflow 활용)
  - 웹 페이지 구현 (Django)
  - open AI (chat GPT) API 활용
- - Data : 수화이미지
+ - Data : 수화이미지데이터셋
